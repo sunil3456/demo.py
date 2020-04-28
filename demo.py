@@ -1,2 +1,2 @@
 print("Hello World")
-print("Welcome to Coud PlayGround")
+print("Welcome to cloud PlayGround")
